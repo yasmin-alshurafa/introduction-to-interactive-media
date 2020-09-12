@@ -2,10 +2,12 @@
 
 ## Assignment 1 Journey
 
-### Intresting Discoveries:
-      I used the color selector tool to get the exact color needed.
-      I used the strokeWeight() function to add dimensions to the portrait.
+### Interesting Discoveries:
+- I used the color selector tool to get the exact color needed.
+- I used the strokeWeight() function to add dimensions to the portrait.
       
 ### Challanges:
-      It took me a while to get the lines at an angle.
-      It took me a while to know how to adjust the arc upside down.
+- It took me a while to get the lines at an angle.
+- It took me a while to know how to adjust the arc upside down.
+      
+## My Potrait:
