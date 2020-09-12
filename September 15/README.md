@@ -10,4 +10,6 @@
 - It took me a while to get the lines at an angle.
 - It took me a while to know how to adjust the arc upside down.
       
-## My Potrait:
+## My Portrait:
+
+![](Image).png
