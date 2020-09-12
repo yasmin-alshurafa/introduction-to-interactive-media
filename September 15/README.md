@@ -12,4 +12,4 @@
       
 ## My Portrait:
 
-![September 15](Image.png0
+![](Image.png)
