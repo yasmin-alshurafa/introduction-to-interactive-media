@@ -15,7 +15,7 @@
 
 ## Description:
 
-The artwork includes 4 different parts and each part has 2 different shades of the same color. Each part of the artwork was coded depending on the color -  four different classes were made. The arrays and random functions were used to include 50 squares and circles placed randomly in each part.
+This artwork was inspired from an image I found while I was scrolling through pintrest. The idea of dividing the sketch to found parts was intresting so I tried doing something similar yet that suits my ablilities in processing. The artwork includes 4 different parts and each part has 2 different shades of the same color. Each part of the artwork was coded depending on the color -  four different classes were made. The arrays and random functions were used to include 50 squares and circles placed randomly in each part.
 
 ## Inspiration and References:
 
