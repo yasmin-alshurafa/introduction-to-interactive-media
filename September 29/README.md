@@ -21,7 +21,7 @@ The artwork includes 4 different parts and each part has 2 different shades of t
 
 Image Inspiration: 
 
-- ![](Image 2.png)
+- ![](Image2.png)
 - https://youtu.be/KkyIDI6rQJI
 
 For translation and rotation of code: 
