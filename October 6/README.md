@@ -1,1 +1,29 @@
+# Assignment 4: Data Visualization
 
+## Assignment Journey
+
+### Intresting Discoveries:
+- I had to add the push and pop functions for each object-oriented program for the translate function not to effect the other translate functions in other object-oriented programs.
+
+### Challanges:
+- I wanted my text to be under each other by using one text function but it didnt work. So I used the two text functions and adjusted the height to have them under each other.
+- I wanted the if statements to work for certain variable, however, the variables were local variables in the for loop so it was hard using them. What I did was that I included my if statements in the for loop to use the same variables.
+- The data I used was in a form of table and had a header. I used the loadtable function to extract the data and the header of the table separately.
+
+## My Artwork:
+
+![](Image.png)
+
+## Description:
+
+The data visulization I made was about the price of diamonds compared with depth, carats and the table of the diamonds. The bigger the price the bigger the depth, carats, and table. However, the smaller the price, the smaller the smaller the depth, carats and table. The relationship was described with big and small circles and texts that describe what data is being represented.
+
+## Inspiration and References:
+
+Image Inspiration: 
+
+- ![](Image2.png)
+
+For using the table function: 
+
+- https://youtu.be/dbs4IYGfAXc
