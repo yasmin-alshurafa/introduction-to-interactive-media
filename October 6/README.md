@@ -3,7 +3,7 @@
 ## Assignment Journey
 
 ### Intresting Discoveries:
-- I had to add the push and pop functions for each object-oriented program for the translate function not to effect the other translate functions in other object-oriented programs.
+- Rather than using the the loadString function, I used the loadTable function to extract the data from the CSV file.
 
 ### Challanges:
 - I wanted my text to be under each other by using one text function but it didnt work. So I used the two text functions and adjusted the height to have them under each other.
