@@ -10,7 +10,7 @@
 - I wanted the if statements to work for certain variable, however, the variables were local variables in the for loop so it was hard using them. What I did was that I included my if statements in the for loop to use the same variables.
 - The data I used was in a form of table and had a header. I used the loadtable function to extract the data and the header of the table separately.
 
-## My Artwork:
+## My Data Visualization:
 
 ![](Image.png)
 
