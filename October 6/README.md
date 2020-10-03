@@ -27,3 +27,7 @@ Image Inspiration:
 For using the table function: 
 
 - https://youtu.be/dbs4IYGfAXc
+
+The CSV file was taken from:
+
+- https://www.kaggle.com/shivam2503/diamonds
