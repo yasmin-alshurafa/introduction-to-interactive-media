@@ -54,47 +54,50 @@ void draw(){
       if ((price >= 9574) && (carat > 0.33 )){
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        }else{
-           fill(84, 233, 245);
-           ellipse (70,300, 20,20);
+      }else{
+        fill(84, 233, 245);
+        ellipse (70,300, 20,20);
         }
       if ((price >= 9574) && (depth > 61 )){
         fill(30, 34, 277);
         ellipse (300,150, 60,60);
-        }else{
-           fill(84, 233, 245);
-           ellipse (300,300, 20,20);
+      }else{
+        fill(84, 233, 245);
+        ellipse (300,300, 20,20);
         }
       if ((price >= 9574) && (table > 69 )){
         fill(30, 34, 277);
         ellipse (550,150, 60,60);
-        }else{
-           fill(84, 233, 245);
-           ellipse (550,300, 20,20);
+      }else{
+        fill(84, 233, 245);
+        ellipse (550,300, 20,20);
         }
       if ((price <= 9574) && (carat > 0.33 )){
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        }else{
-          PFont f = createFont("monaco", 12);
-          textFont(f, 10);
-          text(message10, 50, 400);
+      }else{
+        fill(250, 13, 13);
+        PFont f = createFont("monaco", 12);
+        textFont(f, 10);
+        text(message10, 50, 400);
         }
       if ((price <= 9574) && (table > 69 )){
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        }else{
-          PFont f = createFont("monaco", 12);
-          textFont(f, 10);
-          text(message10, 550, 400);
+      }else{
+        fill(250, 13, 13);
+        PFont f = createFont("monaco", 12);
+        textFont(f, 10);
+        text(message10, 550, 400);
         }
       if ((price <= 9574) && (depth > 61 )){
         fill(30, 34, 277);
         ellipse (300,150, 60,60);
-        }else{
-          PFont f = createFont("monaco", 12);
-          textFont(f, 10);
-          text(message10, 300, 400);
+      }else{
+        fill(250, 13, 13);
+        PFont f = createFont("monaco", 12);
+        textFont(f, 10);
+        text(message10, 300, 400);
       }
     }
  }
