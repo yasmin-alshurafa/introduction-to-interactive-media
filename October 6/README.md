@@ -12,7 +12,7 @@
 
 ## My Data Visualization:
 
-![](Image1.png)
+![](Image.png)
 
 ## Description:
 
