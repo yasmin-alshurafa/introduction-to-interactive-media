@@ -16,7 +16,9 @@ String message7= "Carat is high";
 String message8= "Carat is low";
 String message9= "High price >= $9574, High table > 69mm, High depth > 61%, High carat > 0.33Karat";
 String message10= "N/A";
+
 void setup() { 
+
   background (0);
   size(600, 600);
   PFont f = createFont("monaco", 12);
@@ -35,7 +37,7 @@ void setup() {
   text(message4, 250, 270);
   text(message1, 500, 70);
   text(message5, 500, 90);
-   text(message2, 500, 350);
+  text(message2, 500, 350);
   text(message5, 500, 370);
   text(message2, 500, 250);
   text(message6, 500, 270);
@@ -50,89 +52,49 @@ void draw(){
       float table = row.getFloat("table");
       float price = row.getFloat("price");
       if ((price >= 9574) && (carat > 0.33 )){
-        push();
-        translate(0, 0);
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate( 0, 0);
-        fill(84, 233, 245);
-        ellipse (70,300, 20,20);
-        pop();
-      }
+        }else{
+           fill(84, 233, 245);
+           ellipse (70,300, 20,20);
+        }
       if ((price >= 9574) && (depth > 61 )){
-        push();
-        translate( 0, 0);
         fill(30, 34, 277);
         ellipse (300,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate( 0, 0);
-        fill(84, 233, 245);
-        ellipse (300,300, 20,20);
-        pop();
-      }
+        }else{
+           fill(84, 233, 245);
+           ellipse (300,300, 20,20);
+        }
       if ((price >= 9574) && (table > 69 )){
-        push();
-        translate(0, 0);
         fill(30, 34, 277);
         ellipse (550,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate(0, 0);
-        fill(84, 233, 245);
-        ellipse (550,300, 20,20);
-        pop();
-      }
-        if ((price <= 9574) && (carat > 0.33 )){
-        push();
-        translate(0, 0);
+        }else{
+           fill(84, 233, 245);
+           ellipse (550,300, 20,20);
+        }
+      if ((price <= 9574) && (carat > 0.33 )){
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate( 0, 0);
-        
-        PFont f = createFont("monaco", 12);
-        textFont(f, 10);
-        text(message10, 50, 400);
-        
-        pop();
-      }
+        }else{
+          PFont f = createFont("monaco", 12);
+          textFont(f, 10);
+          text(message10, 50, 400);
+        }
       if ((price <= 9574) && (table > 69 )){
-        push();
-        translate(0, 0);
         fill(30, 34, 277);
         ellipse (70,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate( 0, 0);
-        
-        PFont f = createFont("monaco", 12);
-        textFont(f, 10);
-        text(message10, 550, 400);
-        
-        pop();
-      }
+        }else{
+          PFont f = createFont("monaco", 12);
+          textFont(f, 10);
+          text(message10, 550, 400);
+        }
       if ((price <= 9574) && (depth > 61 )){
-        push();
-        translate( 0, 0);
         fill(30, 34, 277);
         ellipse (300,150, 60,60);
-        pop();
-      }else{
-        push();
-        translate( 0, 0);
-        PFont f = createFont("monaco", 12);
-        textFont(f, 10);
-        text(message10, 300, 400);
-        pop();
+        }else{
+          PFont f = createFont("monaco", 12);
+          textFont(f, 10);
+          text(message10, 300, 400);
       }
-      }
+    }
  }
