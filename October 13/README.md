@@ -2,10 +2,10 @@
 
 ## Assignment Journey
 
-### Intresting Discoveries:
+### Interesting Discoveries:
 - 
 
-### Challanges:
+### Challenges:
 -
 - 
 
