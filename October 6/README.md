@@ -2,10 +2,10 @@
 
 ## Assignment Journey
 
-### Intresting Discoveries:
+### Interesting Discoveries:
 - Rather than using the the loadString function, I used the loadTable function to extract the data from the CSV file.
 
-### Challanges:
+### Challenges:
 - I wanted my text to be under each other by using one text function but it didnt work. So I used the two text functions and adjusted the height to have them under each other.
 - I wanted the if statements to work for certain variable, however, the variables were local variables in the for loop so it was hard using them. What I did was that I included my if statements in the for loop to use the same variables.
 - The data I used was in a form of table and had a header. I used the loadtable function to extract the data and the header of the table separately.
