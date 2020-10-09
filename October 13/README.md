@@ -6,15 +6,15 @@
 - I had to have two different arrays of images to control each array separately although both arrays carried the same images.
 
 ### Challenges:
-- I had a hard time figuring out how to use transparent images.
-- 
+- I had a hard time figuring out how to use transparent image, but I solved the issue by using changing the images and using png. However, i'm not sure what the exact problem was but it worked.
+- I wanted to have the faces of the characters I choose to be in the background, however, it was hard collecting different face expression for each character, so I decided to find normal face expressions and add them to the heads.
 
 ## My Image Processing:
 
 ![](Image.png)
 
 ## Description:
-
+I used a static background of an image of 2 heads without faces. Then I added an array of different images of face expressions for each head. Once the face of the characters is clicked they change randomly.
 
 
 ## Inspiration and References:
