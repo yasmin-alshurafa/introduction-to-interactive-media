@@ -16,13 +16,16 @@
 ## Description:
 I used a static background of an image of 2 heads without faces. Then I added an array of different images of face expressions for each head. Once the face of the characters is clicked they change randomly.
 
-
 ## Inspiration and References:
 
 Image Inspiration: 
 
+- ![](Image.jpg)
+
+Code reference: 
+
 - Proffessor Dan Shiffman's code from (Contributed Examples, Learning Processing 2nd Edition, Chp15 Images Pixels, Example 3)
 
-For using the table function: 
+Sound code reference:
 
-- 
+-https://processing.org/reference/libraries/sound/SoundFile.html
