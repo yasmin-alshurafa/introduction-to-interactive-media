@@ -14,7 +14,7 @@
 ![](Video.mov)
 
 ## Description:
-I used a static background of an image of 2 heads without faces. Then I added an array of different images of face expressions for each head. Once the face of the characters is clicked they change randomly.
+I used a static background of an image of 2 heads without faces. Then I added an array of different images of face expressions for each head. Once the face of the characters is clicked they change randomly. I also added the song of the cartoon that plays once when the code is run. 
 
 ## Inspiration and References:
 
