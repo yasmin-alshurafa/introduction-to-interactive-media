@@ -24,7 +24,7 @@ Image Inspiration:
 
 Code reference: 
 
-- Proffessor Dan Shiffman's code from (Contributed Examples, Learning Processing 2nd Edition, Chp15 Images Pixels, Example 3)
+- Professor Dan Shiffman's code from (Contributed Examples, Learning Processing 2nd Edition, Chp15 Images Pixels, Example 3)
 
 Sound code reference:
 
