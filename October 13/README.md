@@ -25,6 +25,7 @@ Image Inspiration:
 Code reference: 
 
 - Professor Dan Shiffman's code from (Contributed Examples, Learning Processing 2nd Edition, Chp15 Images Pixels, Example 3)
+- https://processing.org/examples/transparency.html
 
 Sound code reference:
 
