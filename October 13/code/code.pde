@@ -13,12 +13,20 @@ int facesIndex1 = 0;
 PImage backgroundPic;
 PImage[] arrayFaces = new PImage[numFaces]; 
 PImage[] arrayFaces1 = new PImage[numFaces1]; 
+float offset = 0;
+float easing = 0.05;
+PImage effect;
 
 void setup() {
   size(600, 600);
   backgroundPic = loadImage("ccf.jpg");
+  effect = loadImage("buuble.jpg");
+  
+  //excess(load) this song
   file = new SoundFile(this, "song.mp3");
   file.play();
+  
+  //loop for excessing all images in the array
   for (int i = 0; i < arrayFaces.length; i ++ ) {
     
     arrayFaces[i] = loadImage( "facesMoves" +i+ ".png" );
@@ -31,11 +39,21 @@ void setup() {
 }
 
 void draw() {
+  //print background image
   image(backgroundPic, 0, 0, 600, 600);
+  
+  //print the transparent image for effect
+  float dx = (mouseX-effect.width/2) - offset;
+  offset += dx * easing; 
+  tint(200, 130);  // Display at half opacity
+  image(effect, offset, 0, 600 ,600);
+  
+  //print the changing faces
   image(arrayFaces[facesIndex], 70, 120, 200, 150);
   image(arrayFaces1[facesIndex1], 360, 270, 150, 150);
 }
 
+//use mousepress for changing face images
 void mousePressed() {
   if (mouseX >= 70 && mouseY <= 305) {
     facesIndex = int(random(arrayFaces.length));
