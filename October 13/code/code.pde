@@ -45,8 +45,8 @@ void draw() {
   //print the transparent image for effect
   float dx = (mouseX-effect.width/2) - offset;
   offset += dx * easing; 
-  tint(200, 130);  // Display at half opacity
-  image(effect, offset, 0, 600 ,600);
+  tint(255, 127);
+  image(effect, offset, 0, 300 ,600);
   
   //print the changing faces
   image(arrayFaces[facesIndex], 70, 120, 200, 150);
