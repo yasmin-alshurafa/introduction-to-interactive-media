@@ -31,3 +31,8 @@ Sound code reference:
 
 -https://processing.org/reference/libraries/sound/SoundFile.html
 
+Images References:
+
+- https://www.pinterest.com/pin/703335666795854613/
+- https://knowyourmeme.com/photos/1335657-the-amazing-world-of-gumball
+
