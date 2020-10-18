@@ -13,3 +13,16 @@
 ![](Bouncing.mov)
 
 ### 17 October 2020:
+
+- I worked on adding the paddle to the code, however, the paddle didn't move neither right or left, it stayed still. I used the mousePress() at first it didn't work, so I went ahead and tried it with the keyPressed, it still didn't move. 
+
+![](Paddle.mov)
+
+- I tried working on differnt parts of the code and I figured that it has to be something within this part of the code but I wasn't sure what was it since when I changed it the paddle started to move in a weird way, I'm not sure how and why, but it did move down to the corner whithout the use of the keypressing function
+
+![](code1.png)
+![](code2.png)
+
+- This is how it moved when I changed this part of the code
+
+![](moving_paddle.mov)
