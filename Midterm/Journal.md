@@ -27,3 +27,7 @@
 - This is how it moved when I changed this part of the code
 
 ![](moving_paddle.mov)
+
+### 18 October 2020:
+
+- After yesterday's work and not figuring out what was wrong, I decided to shift the way the game is working. Since I wasn't able to work on the paddle and getting it to work. I decided to use the bouncing ball and create a game. With the bouncing ball roaming around, I decided that whenever the player presses the moving ball, the player gets a score otherwise if the player misses touches the ball, the player loses a life.
