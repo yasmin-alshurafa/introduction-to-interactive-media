@@ -30,4 +30,10 @@
 
 ### 18 October 2020:
 
-- After yesterday's work and not figuring out what was wrong, I decided to shift the way the game is working. Since I wasn't able to work on the paddle and getting it to work. I decided to use the bouncing ball and create a game. With the bouncing ball roaming around, I decided that whenever the player presses the moving ball, the player gets a score otherwise if the player misses touches the ball, the player loses a life.
+- After yesterday's work and not figuring out what was wrong, I decided to look at more videos for help. I used this video (https://youtu.be/vGLXx_OEtc4) to fix my problem which was in this part of the code. I didn't know what exaclty was the problem, maybe because the added the keyPressed() function outside the draw.
+
+![](code3.png)
+
+- This is how it turned after I adjusted the paddle's code.
+
+![](moving_paddle1.mov)
