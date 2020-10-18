@@ -37,3 +37,13 @@
 - This is how it turned after I adjusted the paddle's code.
 
 ![](moving_paddle1.mov)
+
+- I worked on having the paddle to move left and right. I also added a counter and text of lives and score. I managed to restart the game with the mousepressed() function, however, I'm wasn't able to adjust the dimensions of the ball so when it touches the square it loses a live. When I reached this part with my code, I decided to change the game from a pong to another easier game since I found it hard to code the paddle's. I decided to work on a game where whenever the paddle touches the ball it loses a life, so the player has to move the paddle left and to avoid touching the ball.
+
+- This is how my work looks now
+
+![](score.mov)
+
+- Although the ball still doesn't change the life when the paddle is touched, I worked on expanded dimesions of the paddle and I got what I wanted
+
+![](update.mov)
