@@ -44,6 +44,22 @@
 
 ![](score.mov)
 
-- Although the ball still doesn't change the life when the paddle is touched, I worked on expanded dimesions of the paddle and I got what I wanted
+- Although the ball still doesn't change the life when the paddle is touched, I worked on expanded dimensions of the paddle and I got what I wanted
 
 ![](update.mov)
+
+### 19 October 2020:
+
+- I managed to find a way to check the edges of the canvas when the box hits its edge from the left, it was by using the same method of checking it for the ball. However, the right side of the canvas didn't work. 
+
+![](left.mov)
+
+- I also added a sound file to the game to, its a background sound to make the player feel that he/she/they are in an arcade. I also added a background image to match the theme of the game.
+
+- I decided to remove the score since it didn't make sense and didnt fit in the game. I kept the lives for checking the lose of the player.
+
+- I managed to add a screen at the beginning for the game by following the steps I found on this link (https://forum.processing.org/two/discussion/11615/how-to-make-an-instruction-scene-before-start-game). However, I still didn't find a way for the instructions to come back again after losing. Maybe i'll keep it this way since it'll be the same player playing so maybe no need for the instructions again.
+
+![](start.mov)
+
+- The only thing left is to find away to allow the ball to detect the position box and make the player lose a life.
