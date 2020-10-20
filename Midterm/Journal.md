@@ -76,6 +76,13 @@
 
 ![](overlapping.mov)
 
-- To overcome this issue, I asked on Discord for help and I got help from both Professor Shiloh and Professor Sherwood. I also tried googling this issue and I used this link (http://jeffreythompson.org/collision-detection/circle-rect.php) for help which was great.
+- To overcome this issue, I asked on Discord for help and I got help from both Professor Shiloh and Professor Sherwood. I also tried googling this issue and I used this link (http://jeffreythompson.org/collision-detection/circle-rect.php) for help which was great. Although it worked it wasn't perefct but I was satisfied with the outcome.
 
+- I worked on the instructions that come up at the start of the game. The problem was when the player loses, the instructions of the game comes under the game itself. So what I did was I printed a black backgorund before the initial game starts and this solved the problem. Another issue with the texts was when the game over text is printed, I was printed under the ball and box, so I used the same trick with the instructions where i placed a black background behind the game over text.
+
+- I also worked on fixing the sound issue, so, the song I had playing would play forever since it was long but wouldnt stop or start again when the player loses. I fixed the problem by adding the file.stop function when the player loses and in this way the sound played from the beginning the next round.
+
+- One thing I noticed was the initial position of the ball and box whenever the game starts, since I assigned them to start at the middle, the player would automatically lose lives since they overlapped, so I changed the intital positions to avoid this problem.
+
+![](paddles1.mov)
 
