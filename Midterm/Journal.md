@@ -84,5 +84,10 @@
 
 - One thing I noticed was the initial position of the ball and box whenever the game starts, since I assigned them to start at the middle, the player would automatically lose lives since they overlapped, so I changed the intital positions to avoid this problem.
 
+- I also adjusted the size for the box to rectangle, because it looked nicer and it looked like a paddle which was what I wanted to created before this game. Furthermore, I changed the speed of the ball for it to have a random speed.
+
 ![](paddles1.mov)
 
+- This is how it turned out after I fixed the problem:
+
+![](final11.mov)
