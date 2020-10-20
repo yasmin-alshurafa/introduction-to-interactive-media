@@ -63,3 +63,19 @@
 ![](start.mov)
 
 - The only thing left is to find away to allow the ball to detect the position box and make the player lose a life.
+
+### 20 October 2020
+
+- Today I worked on fixing the problem of detecting the overlapping of the moving box and ball I had in my game. My problem was trying to avoid or detect the overlapping of my moving box and ball. The first option I did was that I tried to have an if condition where it detects when the box's x and ball's x position meet and box's y and ball's y position meet. However, when I tried it, it turned out to be ridiculous since, it would only when they are exactly equal. So, I tried expanding the x position range and it still didn't work.
+
+- This is what I was trying to do:
+
+![](over.png)
+
+- This is how the game reacted:
+
+![](overlapping.mov)
+
+- To overcome this issue, I asked on Discord for help and I got help from both Professor Shiloh and Professor Sherwood. I also tried googling this issue and I used this link (http://jeffreythompson.org/collision-detection/circle-rect.php) for help which was great.
+
+
