@@ -92,7 +92,11 @@
 
 ![](final11.mov)
 
-### 20 October 2020
+### 23 October 2020
+
+- Today the only thing I did was that I added comments to my code.
+
+### 24 October 2020
 
 - Today I worked on fixing the part od the code with the paddle checks the edges to not get off the canvas. In my older version, the checkedges width of the paddle only worked for the left side of the canvas.
 
