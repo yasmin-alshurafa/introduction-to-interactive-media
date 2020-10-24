@@ -13,7 +13,22 @@
 
 
 ## Description:
-
+![](Bouncing.mov)  ![](Paddle.mov)
+![](code1.png)
+![](code2.png)
+![](moving_paddle.mov)
+![](code3.png)
+![](moving_paddle1.mov)
+![](score.mov)
+![](update.mov)
+![](left.mov)
+![](start.mov)
+![](over.png)
+![](overlapping.mov)
+![](paddles1.mov)
+![](final11.mov)
+![](Record.mov)
+![](screen20.mov)
 
 ## Inspiration and References:
 
