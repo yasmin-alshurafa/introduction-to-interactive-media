@@ -30,3 +30,16 @@ The game is played by using the r keybutton and l keybutton (r and l stand for r
 ![](screen20.mov)
 
 ## Inspiration and References:
+
+Background image:
+- https://www.shutterstock.com/search/grey+brick+background
+Background sound music:
+- https://youtu.be/dLFq9-P1eHQ
+Game inspiration: 
+- https://youtu.be/vGLXx_OEtc4
+- https://youtu.be/SsZmuEEHcbU
+Code help: 
+- https://youtu.be/YcbcfkLzgvs
+- https://youtu.be/vGLXx_OEtc4
+- https://forum.processing.org/two/discussion/11615/how-to-make-an-instruction-scene-before-start-game
+- http://jeffreythompson.org/collision-detection/circle-rect.php
