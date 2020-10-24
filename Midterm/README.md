@@ -2,9 +2,9 @@
 
 ## Assignment Journey
 
-### Major Problems:
+## Major Problems:
 
-### Game's Instructions:
+## Game's Instructions:
 
 The game starts with a an instructions page where the player has to read. When the player is done reading the instructions, the player clicks the mouse and starts the game. When the player loses the game by finishing his lives, the player gets an game over page. To restart the game again the player can click the mouse again, and the player gets the istuctions page again and the game starts over the same way it happened the first time. 
 
@@ -32,14 +32,25 @@ The game is played by using the r keybutton and l keybutton (r and l stand for r
 ## Inspiration and References:
 
 Background image:
+
 - https://www.shutterstock.com/search/grey+brick+background
+
 Background sound music:
+
 - https://youtu.be/dLFq9-P1eHQ
+
 Game inspiration: 
+
 - https://youtu.be/vGLXx_OEtc4
+
 - https://youtu.be/SsZmuEEHcbU
+
 Code help: 
+
 - https://youtu.be/YcbcfkLzgvs
+
 - https://youtu.be/vGLXx_OEtc4
+
 - https://forum.processing.org/two/discussion/11615/how-to-make-an-instruction-scene-before-start-game
+
 - http://jeffreythompson.org/collision-detection/circle-rect.php
