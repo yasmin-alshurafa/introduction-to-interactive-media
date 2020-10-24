@@ -26,7 +26,7 @@ The game is played by using the r keybutton and l keybutton (r and l stand for r
 
 ![](players.mov)
 
-## Different Game Stages:
+## Different Game Stages: (full process can be found in journal.md)
 ![](Bouncing.mov)
 ![](Paddle.mov)
 ![](moving_paddle.mov)
