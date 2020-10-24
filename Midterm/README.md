@@ -1,6 +1,6 @@
 # Midterm: Game
 
-## Assignment Journey
+## Midterm Journey
 
 ## Major Problems:
 
