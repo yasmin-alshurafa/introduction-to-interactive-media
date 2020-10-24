@@ -91,3 +91,23 @@
 - This is how it turned out after I fixed the problem:
 
 ![](final11.mov)
+
+### 20 October 2020
+
+- Today I worked on fixing the part od the code with the paddle checks the edges to not get off the canvas. In my older version, the checkedges width of the paddle only worked for the left side of the canvas.
+
+- This was the intitial part of the code with only worked for the left side of the canvas.
+
+![](one.png)
+
+- Then I added the same restrictions I had for the ball to bounce and this is how it turned.
+
+![](two.png)
+
+![](Record.mov)
+
+- Finally i realized that I needed to subtract the whole width of the paddle from the width of the canvas for the paddle not to move over the screen, and this is how it turned out. 
+
+![](three.png)
+
+![](screen20.mov)
