@@ -2,6 +2,10 @@
 
 - It is a one player ping pong game. It includes a paddle and a bouncing ball. The ball should bounce off when it hits the paddle. If the ball hits the bottom of the screen, the player loses.
 
+### Description of Game after adjustments:
+
+- It is a one player game, where the l and r keys are used to move the paddle aways from the boucing ball trying to avoid touching it. If the paddle touches the ball, then the player loses some lives.
+
 ### 15 October 2020:
 
 - I worked on coming up with the idea from a game to create. I watched these videos for inspiration and to get overview on the step. First video: https://youtu.be/vGLXx_OEtc4 and Tanay Singhal youtube videos on (Processing Pong Game).
