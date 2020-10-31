@@ -10,9 +10,8 @@
 
 ## My LEDs and Buttons:
 
-![](Image.png)
-
+![](video.mov)
 
 ## Schematic:
 
-- ![](video.MP4)
+![](Image1.png)
