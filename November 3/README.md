@@ -21,4 +21,5 @@
 
 
 
-
+#### Note:
+I have the image and video to display, but im not sure if they are being displayed. The video and image can be found in November 3 folder with holding the names (Image 1 and video)
