@@ -13,13 +13,11 @@
 
 ## My LEDs and Buttons:
 
-![](movie.mp4)
+The video of how the buttons and LEDs work is very big o be displayed, but it can be downloaded to be viewed. The video is in November 3 "movie.MP4"
+![](movie.MP4)
 
 ## Schematic:
 
 ![](IMG.jpg)
 
 
-
-#### Note:
-I have the image and video to display, but im not sure if they are being displayed. The video and image can be found in November 3 folder with holding the names (Image 1 and video)
