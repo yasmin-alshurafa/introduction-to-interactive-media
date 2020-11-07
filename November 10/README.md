@@ -12,17 +12,17 @@
 
 Pictures:
 
-![](IMG1.jpg)
+![](IMG1.png)
 
-![](IMG2.jpg)
+![](IMG2.png)
 
-![](IMG3.jpg)
+![](IMG3.png)
 
 Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.MP4"
 
 ## Schematic:
 
-![](IMG.jpg)
+![](IMG.png)
 
 
 A description of your concept and how it was achieved
