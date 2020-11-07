@@ -18,7 +18,9 @@
 
 ![](IMG3.png)
 
-#### Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.MP4"
+![](movie.mov)
+
+#### Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.mov"
 
 ## Schematic:
 
