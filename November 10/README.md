@@ -18,8 +18,6 @@
 
 ![](IMG3.png)
 
-![](movie.mov)
-
 #### Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.mov"
 
 ## Schematic:
