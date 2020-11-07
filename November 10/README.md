@@ -16,3 +16,11 @@ The video of how the sensors work is very big to be displayed, but it can be dow
 ## Schematic:
 
 ![](IMG.jpg)
+
+
+A description of your concept and how it was achieved
+A picture of your circuit schematic
+A photograph of your project
+Problems, if any, and solutions, if any
+Anything else you can think of
+A link to the video
