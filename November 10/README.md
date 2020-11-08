@@ -2,15 +2,13 @@
 
 ## Assignment Journey
 
-### Interesting Discoveries:
+### Description of concept
 
+The LEDs should work depending on what information they get from the LDR. Depending on the information they get, one LED would work while the other LED would be off. The way the LEDs work is by fading. On the other hand, if the button was pressed both LEDs would turn off and won't work depending on the LDR. It is a way of restarting the program.
 
-### Challenges:
+## My Analog Sensor and Digital Sensor
 
-
-## My Analog Sensor and Digital Sensor:
-
-#### Pictures:
+### Pictures:
 
 ![](IMG1.png)
 
@@ -18,16 +16,8 @@
 
 ![](IMG3.png)
 
-#### Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.mov"
+### Note: The video of how the sensors work is very big to be displayed, but it can be downloaded to be viewed. The video is in November 10 folder named "movie.mov"
 
-## Schematic:
+## Schematic
 
 ![](IMG.png)
-
-
-A description of your concept and how it was achieved
-A picture of your circuit schematic
-A photograph of your project
-Problems, if any, and solutions, if any
-Anything else you can think of
-A link to the video
