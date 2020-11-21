@@ -4,6 +4,6 @@
 
 ### 24 November 2020:
 
-- I worked on writing my thoughts on how the game will be adjusted to include ardiuno, in the journal. A schematic was drawn to imagine how things will go if they continue to be the same.
+- I worked on writing my thoughts on how the game will be adjusted to include ardiuno, in the journal as a part of the game description. A schematic was drawn to imagine how things will go if they continue to be the same.
 
 ![](sch.png)
