@@ -1,4 +1,4 @@
-# Final Project: Game
+# Final Project
 
 ## Final Project Journey
 
@@ -6,15 +6,10 @@
 
 
 
-## Game's Instructions:
-
-
-## My Game in Processing and Arduino:
+## Processing and Arduino:
 
 
 
-
-## Different Game Stages: (full process can be found in journal.md)
 
 
 
