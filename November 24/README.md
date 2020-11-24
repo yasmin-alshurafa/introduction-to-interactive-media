@@ -2,7 +2,7 @@
 
 ## Assignment Journey
 
-### Description of game
+### Description of the game
 
 It's a modification of my midterm game.
 
