@@ -23,7 +23,7 @@ It's a modification of my midterm game.
 
 ![](img9.png)
 
-### Note: The video of how the game works is very big to be displayed, but it can be downloaded to be viewed. The video is in November 24 folder named "vid5.mov"
+### Note: The video of how the game works is very big to be displayed, but it can be downloaded to be viewed. The video is in this link (https://drive.google.com/file/d/18W0CupSZyVannEHDC7fnV2tM-1olfR9p/view?usp=sharing)
 
 ## Schematic
 
