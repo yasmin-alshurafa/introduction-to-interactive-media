@@ -10,6 +10,6 @@ For the final project, I want to have a one side communication happening from pr
 
 ![](vid1.mov)
 
-- This is how is a simple sketch of how I think things will be:
+- This is how is a simple sketch of how I imagine things will be:
 
 ![](img1.png)
