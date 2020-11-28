@@ -30,3 +30,39 @@ For the final project, I want to have a one side communication happening from pr
 
 ![](img2.png)
 
+### 28 November 2020:
+
+- I worked on adding a back option in processing so whenever you wanted to change the song and go back to the main menu the song stops and the main menu shows. I got the song to stop but the main menu didn’t show up and the problem was that I had a no loop and when I removed it worked.
+
+- This is how the things were:
+
+![](vid3.mov)
+
+- This is where the code failed to perform what it meant to do:
+
+![](img3.png)
+
+- This is how it worked after getting rid of the noLoop():
+
+![](vid4.mov)
+
+- Another problem with the song was that after it played once and I went back to the main menu and clicked again to play the song again it didn’t play. 
+
+- This is how it looked:
+
+![](vid5.mov)
+
+- I solved this issue by adding the upload option of the game in inside the draw function rather than the setup for it to play multiple times and this solved the issue.
+
+- This how the processing screen looked after:
+
+![](vid6.mov)
+
+- This is how the code looked:
+
+![](img4.png)
+
+- Unfortunately, after running the sketch a couple of times the song stopped playing again and a an error message showed up which is OutOfMemoryError. I thought maybe to keep the code this way and come back to it at the end if I wanted to or keep it this way where it plays once. 
+
+- Another thing with the sound system code was that I switch to using the minim library. This is because the minim library had the option to playback, record, analysis and synthesis of sound which was an easier way to control the LEDs depending on the beat or the information I get from the song. This was also recommended by Professor Shiloh which will make the Arduino part of the code be easier to control.
+
