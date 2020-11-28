@@ -50,12 +50,14 @@ For the final project, I want to have a one side communication happening from pr
 
 - This is how it looked:
 
+Note: the video is too big to be displayed by can be found in folder final project named "vid5.mov".
 ![](vid5.mov)
 
 - I solved this issue by adding the upload option of the game in inside the draw function rather than the setup for it to play multiple times and this solved the issue.
 
 - This how the processing screen looked after:
 
+Note: the video is too big to be displayed by can be found in folder final project named "vid6.mov".
 ![](vid6.mov)
 
 - This is how the code looked:
