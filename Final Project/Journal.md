@@ -68,3 +68,19 @@ Note: the video is too big to be displayed by can be found in folder final proje
 
 - Another thing with the sound system code was that I switch to using the minim library. This is because the minim library had the option to playback, record, analysis and synthesis of sound which was an easier way to control the LEDs depending on the beat or the information I get from the song. This was also recommended by Professor Shiloh which will make the Arduino part of the code be easier to control.
 
+### 29 November 2020:
+
+Today I thought why not add a theme to the project and since Christmas is on its way, I wanted the project to have a Christmas theme with Christmas songs. 
+
+I had another issue with the sound where when I added the other 4 songs to play only one played even when I pressed back and went to the main menu and pressed another circle.
+
+This was the problem:
+
+![](vid7.mov)
+
+So, I did that. Plus, I used this link https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim to solve the issue of playing different songs depending on button pressed and going back to the main menu. I used the close() and this was the mistake, I used rewind() and pause() functions and it worked. But it still played the song once.
+
+This is how it turned after adjusting the code:
+
+![](vid8.mov)
+
