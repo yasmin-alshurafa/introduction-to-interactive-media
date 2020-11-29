@@ -50,14 +50,14 @@ For the final project, I want to have a one side communication happening from pr
 
 - This is how it looked:
 
-Note: the video is too big to be displayed by can be found in folder final project named "vid5.mov".
+### Note: the video is too big to be displayed by can be found in folder final project named "vid5.mov".
 ![](vid5.mov)
 
 - I solved this issue by adding the upload option of the game in inside the draw function rather than the setup for it to play multiple times and this solved the issue.
 
 - This how the processing screen looked after:
 
-Note: the video is too big to be displayed by can be found in folder final project named "vid6.mov".
+### Note: the video is too big to be displayed by can be found in folder final project named "vid6.mov".
 ![](vid6.mov)
 
 - This is how the code looked:
@@ -70,17 +70,19 @@ Note: the video is too big to be displayed by can be found in folder final proje
 
 ### 29 November 2020:
 
-Today I thought why not add a theme to the project and since Christmas is on its way, I wanted the project to have a Christmas theme with Christmas songs. 
+- Today I thought why not add a theme to the project and since Christmas is on its way, I wanted the project to have a Christmas theme with Christmas songs. 
 
-I had another issue with the sound where when I added the other 4 songs to play only one played even when I pressed back and went to the main menu and pressed another circle.
+- I had another issue with the sound where when I added the other 4 songs to play only one played even when I pressed back and went to the main menu and pressed another circle.
 
-This was the problem:
+- This was the problem:
 
+### Note: the video is too big to be displayed by can be found in folder final project named "vid7.mov".
 ![](vid7.mov)
 
-So, I did that. Plus, I used this link https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim to solve the issue of playing different songs depending on button pressed and going back to the main menu. I used the close() and this was the mistake, I used rewind() and pause() functions and it worked. But it still played the song once.
+- So, I did that. Plus, I used this link https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim to solve the issue of playing different songs depending on button pressed and going back to the main menu. I used the close() and this was the mistake, I used rewind() and pause() functions and it worked. But it still played the song once.
 
-This is how it turned after adjusting the code:
+- This is how it turned after adjusting the code:
 
+### Note: the video is too big to be displayed by can be found in folder final project named "vid8.mov".
 ![](vid8.mov)
 
