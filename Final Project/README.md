@@ -1,4 +1,4 @@
-# Final Project
+# Final Project: Responsive LEDs
 
 ## Final Project Journey
 
