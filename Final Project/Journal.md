@@ -86,3 +86,22 @@ For the final project, I want to have a one side communication happening from pr
 ### Note: the video is too big to be displayed by can be found in folder final project named "vid8.mov".
 ![](vid8.mov)
 
+### 30 November 2020:
+
+- Today I worked a bit on the aesthetics of the processing window. By adding some writings and colors. I remembered that Katie once used a nice font, so I asked her and used the same font she used from her October 6 assignment.
+
+- This is how the screen looks:
+
+### Note: the video is too big to be displayed by can be found in folder final project named "vid9.mov".
+![](vid9.mov)
+
+- I also worked a having the Arduino communicate with processing today. I used one of the examples from processing as a starting point which was can be found in Processing > Examples > Contributed Examples > Learning Processing 2nd Edition > Chp 20 Sound > Example 8 Playback Analysis. Although the library used in this example was processing sound, I still implemented it in the processing code I had for my project.
+
+- At first it was kind of weird and a bit difficult and confusing because I had to shift a couple of times between sound libraries. However, I used the same logic in applied in the example for my code. I had a bit of hard time because the functions were different, and I had to figure out how to organize the play and stop functions with having trouble of looping or stopping in the wrong time, but it worked. I only applied the code to only one song and tried it out and it worked. 
+
+- I also worked on getting an Arduino code to see if things worked and they did. But maybe I’ll reduce the number of LEDs I had because the restrictions for blinking LEDs are very small only from 0 to 1.0 and I thought it would be better to have fewer lights to accompany the restrictions. 
+
+- This is how it looks:
+
+### Note: the video is too big to be displayed by can be found in folder final project named "vid10.mov".
+![](vid10.mov)
