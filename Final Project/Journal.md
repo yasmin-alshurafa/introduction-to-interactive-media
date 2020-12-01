@@ -110,8 +110,4 @@ For the final project, I want to have a one side communication happening from pr
 
 - I re visited my processing code and applied the same logic of first song to the rest of the songs I had. And today I added comments to my code. 
 
-- This is how it turned out with all of the songs working:
-
-![](vid11.mov)
-
 - I also started working on having the other way around communication between processing and Arduino but this time from Arduino to processing but it didnt work, I kept getting error messages such as nullpointexceptor and error, disabling serialEvent(). Then I worked things out and things didnt work and i kept getting in the serial mointer of processing the same message over and over again without me pressing or playing anything.
