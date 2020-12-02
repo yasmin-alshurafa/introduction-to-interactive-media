@@ -110,4 +110,25 @@ For the final project, I want to have a one side communication happening from pr
 
 - I re visited my processing code and applied the same logic of first song to the rest of the songs I had. And today I added comments to my code. 
 
+- This is how it turned out with all of the songs working:
+
+### Note: the video is too big to be displayed by can be found in folder final project named "vid11.mov".
+![](vid11.mov)
+
 - I also started working on having the other way around communication between processing and Arduino but this time from Arduino to processing but it didnt work, I kept getting error messages such as nullpointexceptor and error, disabling serialEvent(). Then I worked things out and things didnt work and i kept getting in the serial mointer of processing the same message over and over again without me pressing or playing anything.
+
+### 2 December 2020:
+
+- Today, I tried solving the issue of pushbuttons, and to solve the issue, I started by having just one pushbutton in the code an tried to figure how to get it work and if it did, I will apply it to my other pushbuttons and songs. 
+
+- To start off I looked into many videos and posts on google but this didn’t get my processing window to work. Then I decided to look into the codes of some of my classmates’ repositories. Since for November 24’s assignment we used communication too and some did use pushbuttons. I thought why not follow the same pattern or logic. I looked into Omar’s code, it was quite complex and full of parts, but I tried to follow the same logic he followed for his pushbuttons command. 
+
+- After a lot of trials and changing codes, I got to a point where my serial monitor in processing did work and gave me a result of whether the pushbutton was detected or not. 
+
+- This is what I got:
+
+### Note: the video is too big to be displayed by can be found in folder final project named "vid12.mov".
+![](vid12.mov)
+
+- And because I reached to a point where I knew my pushbutton works and is sending signals, I knew there was something wrong with how I used the information I got in my code.
+
