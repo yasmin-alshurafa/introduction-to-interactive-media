@@ -126,3 +126,24 @@ All videos and images can be found in this link:
 ### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid12.mov".
 
 - And because I reached to a point where I knew my pushbutton works and is sending signals, I knew there was something wrong with how I used the information I got in my code.
+
+### 3 December 2020:
+
+- I worked on trying to fix the issue with the pushbuttons, I removed everything that was extra in my code and kept it all just for one pushbutton. After a lot of trials I was able to get that done and my problem was with the Boolean music 1.
+
+- This is how my code was:
+
+![](img5.png)
+
+![](img6.png)
+
+- The problem was that I was re-assigning the Boolean again and not using it. So what I did was just use the Boolean when the push button is pressed since it was assigned rather than re- checking the Boolean. I was really annoyed because it took me a really long time to figure this out, but at the end of the day the feeling of figuring out what was wrong was stratifying and blessing.
+
+- This is what I changed:
+
+![](img7.png)
+
+- This is how my project worked after:
+
+### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid13.mov".
+
