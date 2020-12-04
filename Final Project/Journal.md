@@ -147,3 +147,14 @@ All videos and images can be found in this link:
 
 ### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid13.mov".
 
+### 4 December 2020:
+
+- Today I worked on getting things back together the way they were and combining what I did earlier with the pushbutton code.
+
+- This is how it turned out:
+
+### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid14.mov".
+
+- I just added the rest of the push buttons and made sure they worked the way I wanted.
+
+
