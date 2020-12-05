@@ -157,4 +157,10 @@ All videos and images can be found in this link:
 
 - I just added the rest of the push buttons and made sure they worked the way I wanted.
 
+### 5 December 2020:
 
+- I worked on adding the LEDs back and get them to work with the pushbuttons. Plus, I added my LEDs to make it look festive. However, when I combined it the LEDs didn’t work until the button was pressed all the time. I tried adding the pullup command in the Arduino code but still it didn’t work. Maybe I’ll keep it this way if I wasn’t able to find a way out.
+
+- This is how it is working:
+
+### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid15.mov".
