@@ -164,3 +164,12 @@ All videos and images can be found in this link:
 - This is how it is working:
 
 ### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid15.mov".
+
+### 6 December 2020:
+
+- I worked on the processing aesthetics and commented both my code back.
+
+- This is how it looks:
+
+### Note: the video is too big to be displayed by can be found in this link (https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid16.mov".
+
