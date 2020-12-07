@@ -108,7 +108,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it turned out with all of the songs working:
 
-##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid11.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid11.mp4".
 
 - I also started working on having the other way around communication between processing and Arduino but this time from Arduino to processing but it didnt work, I kept getting error messages such as nullpointexceptor and error, disabling serialEvent(). Then I worked things out and things didnt work and i kept getting in the serial mointer of processing the same message over and over again without me pressing or playing anything.
 
@@ -177,7 +177,3 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 - I couldn’t get the LEDs to work when the button is released nor was I able to have the music play more than once time. However, the button pressed for the LEDs to work all the time can be seen in a positive way, to keep the viewer attentive to the LEDs. So, when the player releases the button, it shows that he/she/they is not attentive, and this can keep the player engaged with the project.
 
 - I tried working on the button press situation by checking if the button was pressed in Arduino to but it was miserably done that the whole Arduino code didn't work so I gave up on doing this and keep my positive thinking of having your finger constantly on the button to stay engaged with the LEDs blinking (metaphorically dancing).
-
-
-
-
