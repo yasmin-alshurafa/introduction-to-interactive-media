@@ -2,6 +2,10 @@
 
 ## Final Project Journey
 
+## Project Description:
+
+The project consists of a communication between both Arduino and Processing. When a button is pressed from the Arduino side, the background changes, a music plays, and the LEDs blink according to the music volume. There are four options to choose from that are linked to four different buttons where each one includes a different song, background, and LEDs blink. A back back button is there too to leave to the main page. The project is Christmas themed with different Christmas backgrounds and songs playing.
+
 ## Major Problems:
 
 - The first problem was having the sound in the draw function without the it is playing over and over again. It was resolved by googling my problem and following the tip provided by this [website](https://stackoverflow.com/questions/40712592/how-to-use-play-inside-draw-in-processing-3) and it worked.
