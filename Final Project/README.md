@@ -32,9 +32,13 @@ Code help:
 - Processing example (Processing > Examples > Contributed Examples > Learning Processing 2nd Edition > Chp 20 Sound > Example 8 Playback Analysis)
 - [Link 1](https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim)
 - [Link 2](https://stackoverflow.com/questions/40712592/how-to-use-play-inside-draw-in-processing-3)
+- Arduino examples (Arduino > Examples > Communication > SerialCallResponseASCII and VirtualColorMixer)
 
 Processing screen aesthetics:
 
 - Font from [Katie's Repository](https://github.com/katieferreol/introduction-to-interactive-media/tree/master/october%206/data)
 - Background screen [images](https://www.pinterest.com/pin/598908450436598726/)
 
+Songs:
+
+- All the songs were downloaded from Youtube.
