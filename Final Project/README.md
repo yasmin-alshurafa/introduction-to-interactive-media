@@ -20,7 +20,7 @@
 
 ### Schematics:
 
-!()[img8.png]
+![](img8.png)
 
 ### Videos and Images:
 
