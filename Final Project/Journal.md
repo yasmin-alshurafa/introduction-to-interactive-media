@@ -26,7 +26,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - I decided to get things done for one circle then apply the same strategy for the rest.
 
-- I tried adding the music in the draw function for it to play when the circle is pressed however because it was in the draw function I played over and over again. To solve this problem, I used stackoverflow and I used this link for help: https://stackoverflow.com/questions/40712592/how-to-use-play-inside-draw-in-processing-3, and it worked. I created an int x variable and the song played once.
+- I tried adding the music in the draw function for it to play when the circle is pressed however because it was in the draw function I played over and over again. To solve this problem, I used stackoverflow and I used this [link for help](https://stackoverflow.com/questions/40712592/how-to-use-play-inside-draw-in-processing-3), and it worked. I created an int x variable and the song played once.
 
 - This is the part I added to the code:
 
@@ -52,13 +52,13 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it looked:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid5.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid5.mov".
 
 - I solved this issue by adding the upload option of the game in inside the draw function rather than the setup for it to play multiple times and this solved the issue.
 
 - This how the processing screen looked after:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid6.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid6.mov".
 
 - This is how the code looked:
 
@@ -76,13 +76,13 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This was the problem:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid7.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid7.mov".
 
-- So, I did that. Plus, I used this link https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim to solve the issue of playing different songs depending on button pressed and going back to the main menu. I used the close() and this was the mistake, I used rewind() and pause() functions and it worked. But it still played the song once.
+- So, I did that. Plus, I used this [link](https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim) to solve the issue of playing different songs depending on button pressed and going back to the main menu. I used the close() and this was the mistake, I used rewind() and pause() functions and it worked. But it still played the song once.
 
 - This is how it turned after adjusting the code:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid8.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid8.mov".
 
 ### 30 November 2020:
 
@@ -90,7 +90,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how the screen looks:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid9.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid9.mov".
 
 - I also worked a having the Arduino communicate with processing today. I used one of the examples from processing as a starting point which was can be found in Processing > Examples > Contributed Examples > Learning Processing 2nd Edition > Chp 20 Sound > Example 8 Playback Analysis. Although the library used in this example was processing sound, I still implemented it in the processing code I had for my project.
 
@@ -100,7 +100,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it looks:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid10.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid10.mov".
 
 ### 1 December 2020:
 
@@ -108,7 +108,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it turned out with all of the songs working:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid11.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid11.mov".
 
 - I also started working on having the other way around communication between processing and Arduino but this time from Arduino to processing but it didnt work, I kept getting error messages such as nullpointexceptor and error, disabling serialEvent(). Then I worked things out and things didnt work and i kept getting in the serial mointer of processing the same message over and over again without me pressing or playing anything.
 
@@ -122,7 +122,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is what I got:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid12.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid12.mov".
 
 - And because I reached to a point where I knew my pushbutton works and is sending signals, I knew there was something wrong with how I used the information I got in my code.
 
@@ -136,7 +136,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 ![](img6.png)
 
-- The problem was that I was re-assigning the Boolean again and not using it. So what I did was just use the Boolean when the push button is pressed since it was assigned rather than re- checking the Boolean. I was really annoyed because it took me a really long time to figure this out, but at the end of the day the feeling of figuring out what was wrong was stratifying and blessing.
+- The problem was that I was re-assigning the Boolean again and not using it. So what I did was just use the Boolean when the push button is pressed since it was assigned rather than re-checking the Boolean. I was really annoyed because it took me a really long time to figure this out, but at the end of the day the feeling of figuring out what was wrong was stratifying and blessing.
 
 - This is what I changed:
 
@@ -144,7 +144,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how my project worked after:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid13.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid13.mov".
 
 ### 4 December 2020:
 
@@ -152,7 +152,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it turned out:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid14.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid14.mov".
 
 - I just added the rest of the push buttons and made sure they worked the way I wanted.
 
@@ -162,7 +162,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it is working:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid15.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid15.mov".
 
 ### 6 December 2020:
 
@@ -170,7 +170,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 - This is how it looks:
 
-### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid16.mov".
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid16.mov".
 
 ### 7 December 2020:
 
