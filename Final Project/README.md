@@ -18,6 +18,12 @@
 
 ## Videos and Images of Responsive LEDs:
 
+### Schematics:
+
+!()[img8.png]
+
+### Videos and Images:
+
 - All videos on the progress of my project can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing)
 
 ## Inspiration and References:
