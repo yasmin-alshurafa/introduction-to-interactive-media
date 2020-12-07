@@ -16,13 +16,9 @@
 
 - The sixth problem was understanding how the boolean expressions worked. To solve this issue I anayzled how I used it in different parts of my code and used it once with *music==true* and once *music* alone. In this way I understood the logic of how it is used, where and why.
 
-## Processing and Arduino:
+## Videos and Images of Responsive LEDs:
 
-
-
-
-
-
+- All videos on the progress of my project can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing)
 
 ## Inspiration and References:
 
