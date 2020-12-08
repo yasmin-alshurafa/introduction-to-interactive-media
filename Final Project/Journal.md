@@ -193,4 +193,3 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 - This is how it turned:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid18.mov".
-
