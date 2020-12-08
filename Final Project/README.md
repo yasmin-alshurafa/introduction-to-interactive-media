@@ -32,6 +32,10 @@ The project consists of a communication between both Arduino and Processing. Whe
 
 ## Inspiration and References:
 
+Inspiration:
+
+- The Dubai Fountain [link](https://www.burjkhalifa.ae/en/downtown-dubai/the-dubai-fountain/)
+
 Code help:
 
 - Omar's [code](https://github.com/soablackwhite/Intro-to-IM/blob/master/Nov24th/multiplayer.pde)
