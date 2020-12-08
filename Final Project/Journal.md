@@ -177,3 +177,20 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 - I couldn’t get the LEDs to work when the button is released nor was I able to have the music play more than once time. However, the button pressed for the LEDs to work all the time can be seen in a positive way, to keep the viewer attentive to the LEDs. So, when the player releases the button, it shows that he/she/they is not attentive, and this can keep the player engaged with the project.
 
 - I tried working on the button press situation by checking if the button was pressed in Arduino to but it was miserably done that the whole Arduino code didn't work so I gave up on doing this and keep my positive thinking of having your finger constantly on the button to stay engaged with the LEDs blinking (metaphorically dancing).
+
+### 8 December 2020:
+
+- Today, I worked on finalizing my work on GitHub. I filled my README.md page and organized my Journal.md page. 
+
+- I was still annoyed by how the LEDs were working. They looked crazy, although they worked depending on the values from the analyzer. 
+
+- This is how they were working:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid17.mov".
+
+- I worked a bit on the code and specifically the part where the analyzer was working. I changed the ranges that I had in the if statements and in this way, it looked better after fixing it.
+
+- This is how it turned:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) in the name "vid18.mov".
+
