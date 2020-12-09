@@ -28,6 +28,12 @@ The project consists of a communication between both Arduino and Processing. Whe
 
 ### Videos and Images:
 
+![](img9.png)
+
+![](img10.png)
+
+- Final video is found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing) named "final vid.mov".
+
 - All videos on the progress of my project can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing)
 
 ## Inspiration and References:
