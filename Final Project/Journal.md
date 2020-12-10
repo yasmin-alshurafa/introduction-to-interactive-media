@@ -196,7 +196,7 @@ All videos and images can be found in this [link](https://drive.google.com/drive
 
 ### 9 December 2020:
 
-- Final photographs and videos were captured today.
+- Final photographs and videos of the project were captured today.
 
 ![](img9.png)
 
