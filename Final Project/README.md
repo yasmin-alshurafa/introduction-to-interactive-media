@@ -22,8 +22,9 @@ The project was inspired by the Dubai Mall's Fountain and how it works depending
 
 ## Clever and Difficult Things:
 
-Clever: I was able to get the LEDs to blink smoothly and not fast by not using all the values I got from the analyzer.
-Difficult: I wasn't able to get the LEDs to blink unless my finger was constantly pressing the button.
+- Clever: I was able to get the LEDs to blink smoothly and not fast by not using all the values I got from the analyzer.
+
+- Difficult: I wasn't able to get the LEDs to blink unless my finger was constantly pressing the button.
 
 ## Videos and Images of Responsive LEDs:
 
@@ -51,10 +52,10 @@ Code help:
 
 - Omar's [code](https://github.com/soablackwhite/Intro-to-IM/blob/master/Nov24th/multiplayer.pde)
 - Processing example (Processing > Examples > Contributed Examples > Learning Processing 2nd Edition > Chp 20 Sound > Example 8 Playback Analysis)
+- Arduino examples (Arduino > Examples > Communication > SerialCallResponseASCII and VirtualColorMixer)
 - [Link 1](https://stackoverflow.com/questions/17556228/how-to-play-only-one-audio-file-at-a-time-in-minim)
 - [Link 2](https://stackoverflow.com/questions/40712592/how-to-use-play-inside-draw-in-processing-3)
 - [Link 3](http://code.compartmental.net/minim/beatdetect_class_beatdetect.html)
-- Arduino examples (Arduino > Examples > Communication > SerialCallResponseASCII and VirtualColorMixer)
 
 Processing screen aesthetics:
 
