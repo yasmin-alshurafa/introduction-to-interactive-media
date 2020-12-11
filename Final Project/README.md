@@ -4,7 +4,7 @@
 
 ## Project Description:
 
-The project consists of a communication between both Arduino and Processing. When a button is pressed from the Arduino side, the background changes, a music plays, and the LEDs blink according to the music volume. There are four options to choose from that are linked to four different buttons where each one includes a different song, background, and LEDs blink. A back back button is there too to leave to the main page. The project is Christmas themed with different Christmas backgrounds and songs playing.
+The project was inspired by the Dubai Mall's Fountain and how it works depending on the music played. The project consists of a communication between both Arduino and Processing. When a button is pressed from the Arduino side, the background changes, a music plays, and the LEDs blink according to the music volume. There are four options to choose from that are linked to four different buttons where each one includes a different song, background, and LEDs blink. A back back button is there too to leave to the main page. The project is Christmas themed with different Christmas backgrounds and songs playing.
 
 ## Major Problems:
 
@@ -19,6 +19,11 @@ The project consists of a communication between both Arduino and Processing. Whe
 - The fifth problem was stopping the sound from playing. I tried different functions where are rewind(), pause(), close() and stop() functions until one of them worked well.
 
 - The sixth problem was understanding how the Boolean expressions worked. To solve this issue, I analyzed how I used it in different parts of my code and used it once with *music==true* and once *music* alone. In this way I understood the logic of how it is used, where and why.
+
+## Clever and Difficult Things:
+
+Clever: I was able to get the LEDs to blink smoothly and not fast by not using all the values I got from the analyzer.
+Difficult: I wasn't able to get the LEDs to blink unless my finger was constantly pressing the button.
 
 ## Videos and Images of Responsive LEDs:
 
