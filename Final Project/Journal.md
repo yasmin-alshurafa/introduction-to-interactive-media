@@ -1,8 +1,8 @@
 ### Description of Project:
 
-For the final project, communication from Processing to Arduino will take place. In the processing screen I would have 4 pushbuttons and if any of the pushbuttons was pressed the screen changes, a song plays, and the LEDs blink as if they are dancing. Instead of having a dancing fountain I have dancing LEDs. 
+- For the final project, communication from Processing to Arduino will take place. In the processing screen I would have 4 pushbuttons and if any of the pushbuttons was pressed the screen changes, a song plays, and the LEDs blink as if they are dancing. Instead of having a dancing fountain I have dancing LEDs. 
 
-All videos and images can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing)
+- All videos and images can be found in this [link](https://drive.google.com/drive/folders/17WSPBS9ddPIl0PlMjBwxAdKnHRF7-Zk8?usp=sharing)
 
 ### 26 November 2020:
 
